@@ -1,5 +1,7 @@
 **Overview**
 
+Jan - Mar 2022
+
 This Artificial Intelligence project, implemented in C++, focuses on
 solving Sudoku puzzles as a Constraint Satisfaction Problem (CSP). The
 solution employs five key methods: Minimum Remaining Value (MRV), MRV
